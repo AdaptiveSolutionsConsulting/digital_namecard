@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Wong;Rickys;;;
+FN: Rickys Wong 
+ORG:Adaptive Solutions Consulting, Malaysia;
+TITLE:Director\n
+EMAIL;type=INTERNET;type=WORK;type=pref:adaptivesolution.bd@gmail.com
+TEL;type=WORK;type=VOICE:+855 17999810
+item1.ADR;type=WORK;type=pref:;;;;;;
+item1.X-ABADR:
+item2.URL;type=pref:https://www.linkedin.com/in/rickys-wong
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
