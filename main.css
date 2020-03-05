@@ -130,6 +130,12 @@ img.profile-pic {
 	width: 100%;
 }
 
+.col.is-testing {
+	flex: none;
+	width: 100%;
+	height: 20%;
+}
+
 .name-title-company {
 	height: 100%;
 }
